@@ -1,0 +1,2 @@
+# example_wiki
+ wiki
