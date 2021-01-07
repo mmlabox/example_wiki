@@ -1,2 +1,2 @@
-# example_wiki
- wiki
+# example for making a wiki
+The source code
